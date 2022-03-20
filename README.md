@@ -1,2 +1,3 @@
-# Tic-Tac-Toe-
-Tic Tac Toe game in vb.net
+# Tic-Tac-Toe
+Created a single player tic tac toe game using vb.net
+
